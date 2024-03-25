@@ -1,0 +1,58 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+    border: 1px solid blue;   
+}
+
+img {
+    width: 200px;   
+}
+
+.picture{
+  display: flex;
+  justify-content: center;
+}
+
+.circle{
+  height: 300px;
+  width: 280px;
+  border-radius: 50%;
+}
+
+.navBar{
+display: flex;
+    justify-content: center;
+  justify-content: space-evenly;
+  padding: 5px;
+}
+
+.info{
+border-color: lightblue;
+  padding: 5px;
+}
+
+.posts{
+  text-align: center;
+}
+
+.friendsList{
+  display: flex;
+  justify-content: center;
+  border: 1px solid blue;
+  justify-content: space-around;
+}
+
+.drake{
+  border: 1px solid blue;
+}
+
+.grey{
+  color: grey;
+}
+
+.blue{
+  color: blue;
+}
